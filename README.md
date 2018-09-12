@@ -1,6 +1,7 @@
 # Clicky-App
 
-This project was bootstrapped with Create React App.
+<ul>
+  <li>This project was bootstrapped with Create React App.
 
 Below you will find some information on how to perform common tasks.
 You can find the most recent version of this guide here.
@@ -1846,3 +1847,5 @@ Ejecting lets you customize anything, but from that point on you have to maintai
 
 Something Missing?
 If you have ideas for more “How To” recipes that should be on this page, let us know or contribute some!
+</li>
+</ul>
