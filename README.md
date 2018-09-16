@@ -1,4 +1,9 @@
 # Clicky-App
+<h3> ScreenShot </h3>
+
+
+![alt text](https://github.com/anil093/Clicky-App/blob/master/src/Components/images/Capture1.JPG?raw=true)
+![alt text](https://github.com/anil093/Clicky-App/blob/master/src/Components/images/Capture2.JPG?raw=true)
 
 <ul>
   <li>This project was bootstrapped with Create React App.
